@@ -1,0 +1,1 @@
+This project implement the OpenWeatherMap API which looks into the current weather data by searching up a city name. This implements making call to the API in order to retrieve the live data. The user enters a particular city name, and then is informed of the current temperature, wind speed, humidity in that particular city. 
